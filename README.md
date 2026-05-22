@@ -1,4 +1,5 @@
 # Analise-de-Risco-de-Credito-e-Probabilidade-de-Inadimplencia
+Primeiro projeto teste aprendendo e testando o básico de algumas ferramentas
 # 📊 Projeto de Análise de Risco de Crédito com Power BI e PostgreSQL
 
 Este projeto tem como objetivo aplicar técnicas de análise de dados para identificar riscos de inadimplência, oportunidades de upsell e segmentações financeiras, utilizando um dataset fictício de empréstimos.
